@@ -5,7 +5,7 @@ PI = 3.1415926535897
 angle = 20    # 시작 각도, 20도 만큼 꺽어서 이동
 speed = 0.1  # 꺾을 때도 직진할 때도 0.1m/s
 threshold1 = 100
-threshold2 = 900
+threshold2 = 1000
 geto_enter=0
 
 #Converting from angles to radians
